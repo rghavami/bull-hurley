@@ -1,0 +1,7 @@
+_____Zoomin Service Portal_____
+
+My Releases:
+Development -> Staging -> Production
+-If any single case or task within the deployment is rejected, the entire deployment will be marked as 'Rejected'.
+This allows Zoomin to address any issues promptly.
+-Once all tasks are complete, all cases will be closed, and the release will be marked as completed.
